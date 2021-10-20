@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/bitsamericas/projects/ovidiojosearteaga.github.io/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/bitsamericas/projects/ovidiojosearteaga/src/polyfills.ts */"hN/g");
 
 
 /***/ }),

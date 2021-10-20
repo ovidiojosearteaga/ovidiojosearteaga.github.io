@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/bitsamericas/projects/ovidiojosearteaga.github.io/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /home/bitsamericas/projects/ovidiojosearteaga/src/main.ts */"zUnb");
 
 
 /***/ }),
